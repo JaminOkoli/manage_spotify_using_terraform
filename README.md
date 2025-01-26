@@ -20,10 +20,10 @@ Before you begin, ensure you have the following:
 
 ## Note the following
 
-### 1. You will need to create an app on spotify developer platform, so you can add your User ID and Secret key to the code. 
+1. You will need to create an app on spotify developer platform, so you can add your User ID and Secret key to the code. 
 
-### 2. You will need to generate and API and add to your provider.tf file 
+2. You will need to generate and API and add to your provider.tf file 
 
-### 3. You will first get the docker running before you plan and push the code.
+3. You will first get the docker running before you plan and push the code.
 
-## Feel free to reach out, you can also Read through the [Terraform documentation](https://developer.hashicorp.com/terraform/tutorials/community-providers/spotify-playlist) for more informartion.
+ Feel free to reach out, you can also Read through the [Terraform documentation](https://developer.hashicorp.com/terraform/tutorials/community-providers/spotify-playlist) for more informartion.

@@ -18,12 +18,12 @@ Before you begin, ensure you have the following:
 
 6. **VS Code Editor**: Recommended for editing Terraform files. [Download VS Code](https://code.visualstudio.com/)
 
-## Project Setup Steps
+## Note the following
 
-### 1. Initialize the Terraform Project
+### 1. You will need to create an app on spotify developer platform, so you can add your User ID and Secret key to the code. 
 
-- **Create a Project Directory**: Open your terminal and execute:
+### 2. You will need to generate and API and add to your provider.tf file 
 
-  ```bash
-  mkdir spotify-playlist-automation
-  cd spotify-playlist-automation
+### 3. You will first get the docker running before you plan and push the code.
+
+## Feel free to reach out, you can also Read through the [Terraform documentation](https://developer.hashicorp.com/terraform/tutorials/community-providers/spotify-playlist) for more informartion.
